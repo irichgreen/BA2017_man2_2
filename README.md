@@ -23,8 +23,6 @@
 ![](./img/data_info.png)
 
 > 데이터 분석을 위한 참고 자료
-*
-> 데이터 분석을 위한 참고 자료
 * [R에서 자유자재로 데이터 가공하기](http://rpubs.com/jmhome/R_data_wrangling)
 * [R에서 데이터 정제하기 (결측치,이상치)](http://rpubs.com/jmhome/R_data_processing)
 
